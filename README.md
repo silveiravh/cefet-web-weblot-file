@@ -1,4 +1,4 @@
-# _Drag and Drop API_
+# _File API_
 
 Exemplo de uso da tag de _File_ do HTML5.
 
